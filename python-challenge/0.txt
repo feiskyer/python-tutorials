@@ -1,0 +1,12 @@
+# http://www.pythonchallenge.com/pc/def/0.html
+
+localhost:~# python -c "print 2**38"
+274877906944
+localhost:~# python -c "print pow(2,38)"
+274877906944
+localhost:~# dc -e '2 38 ^ p'
+274877906944
+localhost:~# echo $((2**38))
+274877906944
+
+# next http://www.pythonchallenge.com/pc/def/map.html

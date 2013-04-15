@@ -1,0 +1,50 @@
+[2013-04-10 13:37:47] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:37:47] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:37:47] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:37:48] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:37:48] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:37:48] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:37:48] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:37:48] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:37:48] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:37:48] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:37:48] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:37:48] [INFO] __main__ Client 10.241.227.16 connected
+(11026) wsgi starting up on http://0.0.0.0:9010/
+10.241.227.16 - - [10/Apr/2013 13:37:47] "GET / HTTP/1.1" 200 1210 0.002784
+10.241.227.16 - - [10/Apr/2013 13:37:47] "GET /favicon.ico HTTP/1.1" 200 1124 0.000771
+10.241.227.16 - - [10/Apr/2013 13:37:47] "GET /favicon.ico HTTP/1.1" 200 1124 0.000754
+10.241.227.16 - - [10/Apr/2013 13:37:48] "GET / HTTP/1.1" 200 1210 0.000771
+10.241.227.16 - - [10/Apr/2013 13:37:48] "GET /favicon.ico HTTP/1.1" 200 1124 0.000734
+10.241.227.16 - - [10/Apr/2013 13:37:48] "GET /favicon.ico HTTP/1.1" 200 1124 0.000755
+10.241.227.16 - - [10/Apr/2013 13:37:48] "GET / HTTP/1.1" 200 1210 0.000747
+10.241.227.16 - - [10/Apr/2013 13:37:48] "GET /favicon.ico HTTP/1.1" 200 1124 0.000740
+10.241.227.16 - - [10/Apr/2013 13:37:48] "GET /favicon.ico HTTP/1.1" 200 1124 0.000735
+10.241.227.16 - - [10/Apr/2013 13:37:48] "GET / HTTP/1.1" 200 1210 0.000768
+10.241.227.16 - - [10/Apr/2013 13:37:48] "GET /favicon.ico HTTP/1.1" 200 1124 0.000738
+10.241.227.16 - - [10/Apr/2013 13:37:48] "GET /favicon.ico HTTP/1.1" 200 1124 0.000737
+wsgi exiting
+[2013-04-10 13:42:15] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:15] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:15] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:15] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:15] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:15] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:15] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:15] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:15] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:15] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:15] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:15] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:15] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:16] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:16] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:16] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:16] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:42:16] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:52:00] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:52:00] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:52:00] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:52:23] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:52:23] [INFO] __main__ Client 10.241.227.16 connected
+[2013-04-10 13:52:23] [INFO] __main__ Client 10.241.227.16 connected
