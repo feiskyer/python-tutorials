@@ -1,7 +1,4 @@
-python-tutorials
-================
-
-#Contents
+#python-tutorials
 * [Beginner's Delight](#beginners-delight)
 * [Style Guide and Idioms](#style-guide-and-idioms)
 * [Dictionary](#dictionary)
