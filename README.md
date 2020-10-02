@@ -231,7 +231,7 @@
 * [Building a Twitter clone in Web2Py](http://fragile.org.uk/2013/06/twitter-clone-tutorial-in-web2py-part-1-getting-started/)
 
 ####Django
-* [The official Django documentation](https://docs.djangoproject.com/en/1.5/)
+* [The official Django documentation](https://docs.djangoproject.com/en/3.1/)
 * [Getting started with Django](http://gettingstartedwithdjango.com/)
 * [Building a hacker news clone in Django](http://arunrocks.com/building-a-hacker-news-clone-in-django-part-1/)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
